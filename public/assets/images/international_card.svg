@@ -1,0 +1,9 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="InternationalCard">
+    <path d="M31.5 7.875H4.5C3.87868 7.875 3.375 8.37868 3.375 9V27C3.375 27.6213 3.87868 28.125 4.5 28.125H31.5C32.1213 28.125 32.625 27.6213 32.625 27V9C32.625 8.37868 32.1213 7.875 31.5 7.875Z" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3.375 13.5H32.625" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="7" y="17.5" width="5.5" height="4.5" rx="1" stroke="#424B6B" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="21" cy="20.5" r="3.75" stroke="#424B6B" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="25.5" cy="20.5" r="3.75" stroke="#424B6B" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="EWallet">
+    <path d="M4.5 9.5C4.5 8.11929 5.61929 7 7 7H29C30.3807 7 31.5 8.11929 31.5 9.5V26.5C31.5 27.8807 30.3807 29 29 29H7C5.61929 29 4.5 27.8807 4.5 26.5V9.5Z" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8.5 7V5.25C8.5 4.55964 9.05964 4 9.75 4H26.25C26.9404 4 27.5 4.55964 27.5 5.25V7" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M21 14H31.5V22H21C18.7909 22 17 20.2091 17 18C17 15.7909 18.7909 14 21 14Z" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22.5" cy="18" r="1.5" fill="#424B6B"/>
+    <path d="M9 13.5H13" stroke="#424B6B" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
