@@ -9,6 +9,8 @@
 
 ## 🌟 Giới Thiệu Dự Án
 
+Đồ án thương mại điện tử: xây dựng hệ thống đặt sân cầu lông trực tuyến.
+
 **CourtGo** là giải pháp nền tảng số toàn diện cho mô hình thể thao O2O (Online-to-Offline), hỗ trợ người chơi đặt sân cầu lông nhanh chóng, giữ chỗ công bằng theo thời gian thực và quản lý vận hành sân chuyên nghiệp cho ban quản trị và nhân viên.
 
 Dự án được xây dựng với triết lý **hiệu năng cao, bảo mật nghiêm ngặt và trải nghiệm mượt mà**: kiến trúc Fastify SSR tối ưu tốc độ phản hồi cực nhanh, cơ sở dữ liệu quan hệ ACID đảm bảo chống trùng lịch và tích hợp thanh toán tự động VietQR / VNPAY bảo mật cao.
